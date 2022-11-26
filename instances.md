@@ -18,7 +18,7 @@
 |https://libreddit.hu|WWW|v0.20.2|🇫🇮 FI|✅||
 |https://libreddit.totaldarkness.net|WWW|v0.23.1|🇨🇦 CA|||
 |https://libreddit.esmailelbob.xyz|WWW|v0.24.0|🇨🇦 CA|||
-|https://lr.vern.cc|WWW|v0.23.2|🇨🇦 CA|||
+|https://lr.vern.cc|WWW|v0.23.2|🇺🇸 US|||
 |https://libreddit.nl|WWW|v0.24.1|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.org|WWW|v0.24.1|🇳🇱 NL|✅||
